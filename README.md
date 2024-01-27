@@ -22,7 +22,7 @@ Lab Setup
 <br />
 Download all eval ISO files needed from Microsoft for server 2022 and Win 10 Enterprise.
 Setup the virtual server in your VM manager of choice.
-Add roles and features - choose Active Directory Domain Services.
+In server manager > manage > add roles and features - choose Active Directory Domain Services.
 Start a new forest to create your domain name ( example: myadlab.local).
 Click ‘Next’ until the pre-requisites, then install. Once finished your new server will reboot and be joined to the domain you created: <br/>
 <img src="https://i.imgur.com/8qHwltg.png" height="60%" width="60%" alt="Hack Lab"/>
