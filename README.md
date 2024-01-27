@@ -9,6 +9,7 @@ Project consists of setting up a purposefully vunerable Windows Active Directory
 
 - <b>Active Directory</b> 
 - <b>Group Policy</b>
+- <b>Server Manager</b>
 
 <h2>Environments Used </h2>
 
